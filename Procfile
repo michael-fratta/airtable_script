@@ -1,0 +1,1 @@
+worker: python airtable_script.py
